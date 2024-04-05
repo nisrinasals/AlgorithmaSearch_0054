@@ -1,2 +1,2 @@
-//tes
 #include <iostream>
+using namespace std;
